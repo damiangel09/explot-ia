@@ -1,8 +1,0 @@
-PDD_00-Respuesta limpia finalizada. Tiempo registrado: 4.98 segundos
-
-PDD_01-Respuesta finalizada. Tiempo registrado: 12.68 segundos
-
-PDD_02-Respuesta finalizada. Tiempo registrado: 4.35 segundos
-
-PDD_03-Respuesta finalizada. Tiempo registrado: 10.75 segundos
-
