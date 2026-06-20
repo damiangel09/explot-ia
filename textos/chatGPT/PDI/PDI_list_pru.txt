@@ -1,0 +1,7 @@
+PDI_00-Respuesta limpia finalizada. Tiempo registrado: 4.42 segundos
+
+PDI_01-Respuesta finalizada. Tiempo registrado: 23.51 segundos
+
+PDI_02-Respuesta finalizada. Tiempo registrado: 12.53 segundos
+
+PDI_03-Respuesta finalizada. Tiempo registrado: 14.83 segundos
