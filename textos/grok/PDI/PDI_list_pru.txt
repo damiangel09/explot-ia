@@ -1,7 +1,9 @@
-PDI_00-Respuesta limpia finalizada. Tiempo registrado: 2.02 segundos
+PDI_00-Respuesta limpia finalizada. Tiempo registrado: 8.50 segundos
 
-PDI_01-Respuesta finalizada. Tiempo registrado: 2.33 segundos
+PDI_01-Respuesta finalizada. Tiempo registrado: 7.74 segundos
 
-PDI_02-Respuesta finalizada. Tiempo registrado: 3.17 segundos
+PDI_02-Respuesta finalizada. Tiempo registrado: 13.07 segundos
 
 PDI_03-Respuesta finalizada. Tiempo registrado: 2.53 segundos
+
+los tiempos toman encuneta el tiempo que tarda en pensar y lo que entrega el resultado, por eso los tiempos difieren de lo que hay en imagen y lo que esta reportado, en este caso eso es evidente.

@@ -3,3 +3,5 @@ PDT_01-Respuesta finalizada. Tiempo registrado: 5.28 segundos
 PDT_02-Respuesta finalizada. Tiempo registrado: 9.21 segundos
 
 PDT_03-Respuesta finalizada. Tiempo registrado: 9.46 segundos
+
+la ia toma en cuenta el lenguaje de chats anteriores o que el usuario tenga mayor dominio.
