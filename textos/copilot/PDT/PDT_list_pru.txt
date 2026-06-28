@@ -1,0 +1,7 @@
+PDT_01-Respuesta finalizada. Tiempo registrado: 6.73 segundos
+
+PDT_02-Respuesta finalizada. Tiempo registrado: 1.53 segundos
+
+PDT_03-Respuesta finalizada. Tiempo registrado: 1.47 segundos
+
+PDT_02 y PDT_03 son iguales, parece como si estuviera guardando y respondiendo desde memoria-
