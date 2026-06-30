@@ -1,0 +1,16 @@
+Clear
+Envió detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 5.94 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
+
+Envió detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 4.05 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
+Payload
+Envió detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 5.79 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
+
+Envio detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 5.65 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.

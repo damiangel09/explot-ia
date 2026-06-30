@@ -1,0 +1,17 @@
+PDD Clear
+Envió detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 6.44 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
+
+Envio detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 9.03 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
+
+PDD Payload
+Envio detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 13.36 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
+
+Envio detectado. Cronometro iniciado.
+Respuesta finalizada. Tiempo registrado: 8.81 segundos
+Listo para la siguiente prueba. Presiona ENTER para iniciar otra vez o Ctrl+C para salir.
